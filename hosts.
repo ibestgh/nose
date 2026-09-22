@@ -83105,12 +83105,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 leadbolt.com
 0.0.0.0 adikteev.com
 0.0.0.0 integralads.com
-0.0.0.0 tr.facebook.com
-0.0.0.0 analytics.facebook.com
-0.0.0.0 facebook.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 meta-ads.facebook.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 m.facebook.com
-0.0.0.0 z-m-graph.facebook.com
+
